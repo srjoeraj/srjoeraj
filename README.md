@@ -1,4 +1,5 @@
 > “Sever the ignorant doubt in your heart with the sword of self-knowledge. Observe your discipline. Arise.”
+
 >  Bhagwad Gita.
 
 ### Rohan Sidharth Rajguru
