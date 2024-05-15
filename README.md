@@ -1,6 +1,6 @@
 > “Sever the ignorant doubt in your heart with the sword of self-knowledge. Observe your discipline. Arise.”
 
->  Bhagwad Gita.
+>  Lord Krishna to Arjuna. From the Bhagwad Gita.
 
 ### Rohan Sidharth Rajguru
 
@@ -25,4 +25,8 @@ These are the certifications I have in Linux and networking:
 - 🥇 [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/a4ebceb9-04df-49d0-bc95-5c61f9bcf779/linked_in_profile)
 
 ### You can find me in the following Places!
+
+
+
+### Har Har Mahadev!
 
