@@ -22,7 +22,7 @@ I'm currently learning Kubernetes, and trying to document my learning doing so.
 ### Certifications 
 
 These are the certifications I have in Linux and networking.
-- Red Hat Certified System Administrator (RHCSA)
-- Cisco Certified Network Associate (CCNA)
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/458ef1a7-a787-4fe8-ad32-4f7f28cc3f86/public_url)
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/a4ebceb9-04df-49d0-bc95-5c61f9bcf779/linked_in_profile)
 
 ### You can find me in the following Places!
