@@ -25,6 +25,8 @@ These are the certifications I have in Linux and networking:
 - 🥇 [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/a4ebceb9-04df-49d0-bc95-5c61f9bcf779/linked_in_profile)
 
 ### You can find me in the following Places!
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rrajguru/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://srjoeraj.github.io/site)  
 
 
 
